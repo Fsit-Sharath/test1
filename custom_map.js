@@ -1351,8 +1351,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Distributor", 
-        "latitude": 29.261982,
-        "longitude": 0.229897,  
+        "latitude": 27.210796,
+        "longitude": 2.495901, 
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -1412,8 +1412,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Distributor", 
-        "latitude": -3.471967,
-        "longitude": 23.453008, 
+        "latitude": -4.044374, 
+        "longitude": 15.363174, 
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -1442,8 +1442,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 41.133658,
-        "longitude": 20.098406,
+        "latitude": 41.114079,
+        "longitude": 20.091407,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -1536,8 +1536,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 52.515705,
-        "longitude": 13.415094,  
+        "latitude": 52.378350,
+        "longitude": 9.738332,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -1567,8 +1567,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 29.542326,
-        "longitude": 1.548952,
+        "latitude": 35.233695,
+        "longitude": 10.486383,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -1692,8 +1692,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 48.383984,
-        "longitude": 20.021388, 
+        "latitude": 49.004598,
+        "longitude": 21.238529,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -1974,8 +1974,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 45.087659,
-        "longitude": 14.613334,
+        "latitude": 45.020598,
+        "longitude": 14.578228,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2098,8 +2098,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 58.653947,
-        "longitude": 25.979604, 
+        "latitude": 58.736471,
+        "longitude": 25.784717,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2128,9 +2128,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 56.853957,
-        "longitude": 26.220811,
- 
+        "latitude": 56.84991,
+        "longitude": 26.230633,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2160,8 +2159,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 55.730217,
-        "longitude": 24.358929, 
+        "latitude": 55.742812,
+        "longitude": 23.758651,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2193,8 +2192,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "title": "Commercial Contact", 
         // "latitude": -86.283479,
         // "longitude": 44.283113,
-        "latitude": 11.210839,
-        "longitude":122.591098, 
+        "latitude": 12.425492,
+        "longitude":123.393471,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2256,9 +2255,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 47.022692,
-        "longitude":  19.563128,
-
+        "latitude": 47.497837,
+        "longitude": 19.036361, 
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2288,8 +2286,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Distributor", 
-        "latitude": 33.632864,
-        "longitude": -7.509452, 
+        "latitude": 33.601124, 
+        "longitude": -7.535427,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2306,7 +2304,7 @@ var map = AmCharts.makeChart( "chartdiv", {
                         "Morocco<br>"+
                         "Mobile: <span> + +212 661 367 593</span><br> "+
                         "Phone: <span>  +212 (0) 5 22 66 04 80/82/87</span><br> "+
-                        "Fax: <span> +963 43 726 297</span><br>"+
+                        "Fax: <span></span><br>"+
                         "Email: <span>elhaid.h@panacom.ma / wadghiri.m@panacom.ma / benkirane.n@panacom.ma</span></p>"+
                         "</div></div>"
 },
@@ -2335,8 +2333,8 @@ var map = AmCharts.makeChart( "chartdiv", {
                         "<p>94, Rue Annesrine<br>"+
                         "Hay Arraha (Beauséjour)<br>"+
                         "Casablanca – Marruecos<br>"+
-                        "Phone: <span> +(212.5) 22948659</span><br> "+
-                        "Fax: <span> +963 43 726 297</span><br>"+
+                        "Phone: <span>  +(212.5) 22369456</span><br> "+
+                        "Fax: <span>  +(212.5) 22948659</span><br>"+
                         "Email: <span>wadghiri.m@panacom.ma</span></p>"+
                         "</div></div>"
 },
@@ -2379,8 +2377,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Distributor",      
-        "latitude": -3.503740,
-        "longitude": 23.419604,
+        "latitude": -1.030445,
+        "longitude": 15.343347,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2501,8 +2499,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "scale": 1,
         "title": "Commercial Contact", 
         
-        "latitude": 53.329333,
-        "longitude": -8.220751,  
+        "latitude": 53.331403,
+        "longitude": -8.23763,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2531,9 +2529,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 44.785165,
-        "longitude":   10.362565,
-
+        "latitude": 44.285005,
+        "longitude": 10.962190,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2563,8 +2560,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 45.548507,
-        "longitude": 9.315626,
+        "latitude": 45.142668,
+        "longitude": 10.298095,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2594,8 +2591,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 41.719145,
-        "longitude": 21.771056, 
+        "latitude": 44.785005,
+        "longitude": 10.362190,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2654,8 +2651,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude":  32.331399,
-        "longitude": -6.354632, 
+        "latitude": 32.322814,
+        "longitude": -6.364472,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2748,8 +2745,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 42.825407,
-        "longitude": 19.523442,  
+        "latitude": 42.940076,
+        "longitude": 19.211532,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2779,8 +2776,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 61.248890,
-        "longitude":  8.906365,
+        "latitude": 61.76964,
+        "longitude": 9.500508,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2898,8 +2895,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 45.657413,
-        "longitude": 25.594229, 
+        "latitude": 46.058013,
+        "longitude": 25.23733,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2961,8 +2958,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Distributor", 
-        "latitude": 35.185262,
-        "longitude": 35.053332, 
+        "latitude": 35.145117, 
+        "longitude": 36.693675, 
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -2992,8 +2989,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 56.072576,
-        "longitude": 92.972725, 
+        "latitude": 62.579521,
+        "longitude": 114.006253,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3020,8 +3017,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 62.542273,
-        "longitude": 113.976236, 
+        "latitude": 65.579521,
+        "longitude": 117.006253,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3079,9 +3076,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 44.658311,
-        "longitude":  20.934534,
-
+        "latitude": 43.948059,
+        "longitude": 20.968957,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3327,8 +3323,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 35.678169,
-        "longitude": 10.093946, 
+        "latitude": 37.685093,
+        "longitude": 10.095150,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3358,8 +3354,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Distributor", 
-        "latitude": 23.325894,
-        "longitude": 120.9440924, 
+        "latitude": 22.999729,
+        "longitude": 120.227028, 
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3435,8 +3431,8 @@ var map = AmCharts.makeChart( "chartdiv", {
                         "Gebze-Kocaeli<br>"+
                         "Turkey - 41400<br>"+
                         "Phone: <span> +(90.262) 648 53 75</span><br> "+
-                        "Fax: <span> +(66.2) 955 03 12</span><br>"+
-                        "Email: <span>panitan@betagro.com</span></p>"+
+                        "Fax: <span>  +(90.262) 751 06 73</span><br>"+
+                        "Email: <span>atas@novakim.com</span></p>"+
                         "</div></div>"
 },
 
@@ -3504,15 +3500,15 @@ var map = AmCharts.makeChart( "chartdiv", {
 },
 
 {
-        "groupId": "contact_uk",
+        "groupId": "contact_ukraine",
         // "svgPath": targetSVG,
         "imageURL": "/lucta_wp/wp-content/uploads/2018/04/pin-man-icon.png",
         "width":30,
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 53.481215,
-        "longitude": -2.242690,   
+        "latitude": 48.482457,
+        "longitude": 31.253167,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3534,15 +3530,15 @@ var map = AmCharts.makeChart( "chartdiv", {
 },
 
 {
-        "groupId": "contact_ukraine",
+        "groupId": "contact_uk",
         // "svgPath": targetSVG,
         "imageURL": "/lucta_wp/wp-content/uploads/2018/04/pin-man-icon.png",
         "width":30,
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude":  48.389088,
-        "longitude": 31.176739, 
+        "latitude": 54.993938,
+        "longitude": -2.929922,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3572,8 +3568,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 44.645961,
-        "longitude": 25.397958,
+        "latitude": 42.551761,
+        "longitude": 26.124468,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3658,8 +3654,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Commercial Contact", 
-        "latitude": 46.392747,
-        "longitude": 25.628330,
+        "latitude": 44.429510, 
+        "longitude": 26.036770,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3717,8 +3713,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Distributor", 
-        "latitude": -17.412155,
-        "longitude": -64.519026, 
+        "latitude": -17.836435, 
+        "longitude": -63.236327, 
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
@@ -3733,7 +3729,7 @@ var map = AmCharts.makeChart( "chartdiv", {
                         "<p>Calle Eucaliptos N°2-35<br>"+
                         "Zona doble vía a la Guardia<br>"+
                         "Santa Cruz – Bolivia<br>"+
-                        "Mobile: <span> +90-532 401 80 01</span><br> "+
+                        "Mobile: <span></span><br> "+
                         "Phone: <span> +(59.1)  33 58 19 60 / (59.1)  33 58 19 61</span><br> "+
                         "Email: <span>rayllon@ilendercorp.com</span></p>"+
                         "</div></div>"
@@ -4004,8 +4000,8 @@ var map = AmCharts.makeChart( "chartdiv", {
         "height":40,
         "scale": 1,
         "title": "Distributor", 
-        "latitude": -12.0127156,
-        "longitude": -76.9459164, 
+        "latitude": -12.533356, 
+        "longitude": -76.297935,
         "description": "<div class='map-popup-details popup_active'>"+
                         "<div class='img-section'>"+
                         "<img src='/lucta_wp/wp-content/uploads/2018/04/popup-img.jpg' alt=''>"+
